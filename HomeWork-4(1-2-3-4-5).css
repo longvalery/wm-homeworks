@@ -1,0 +1,19 @@
+/* Задача №1 */ 
+.main-header {font-size: 56px; color: #365f91; font-family : serif; }
+
+/* Задача №2 */
+p {font-size :20px;}
+
+/* Задача №3 */
+.lead strong { text-decoration: underline;}
+
+/* Задача №4 */
+li {color : #365f91;}
+ul > li {list-style-type: square;}
+ul > li > ul > li {list-style-type: circle;}
+
+/* Задача №5 */
+blockquote {background:url(https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg) ; color :  #494429;
+font-style: italic;  
+font-family : serif;
+}
